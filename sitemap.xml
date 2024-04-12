@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://machshev.github.io/abm-tools/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/changelog/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/changelog/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/contributing/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/contributing/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/credits/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/credits/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/license/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/license/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/SUMMARY/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/SUMMARY/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/cli/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/cli/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/debug/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/debug/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/errors/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/errors/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/render/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/render/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/render/html/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/render/html/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/render/interface/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/render/interface/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/render/md/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/render/md/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/render/osis/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/render/osis/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/render/vpl/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/render/vpl/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/sedra/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/sedra/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/sedra/bible/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/sedra/bible/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/sedra/db/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/sedra/db/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/templates/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/templates/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/reference/abm_tools/templates/html/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/reference/abm_tools/templates/html/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://machshev.github.io/abm-tools/coverage/</loc>
+         <loc>https://machshev.github.io/aramaic-bible-modules/coverage/</loc>
          <lastmod>2024-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
