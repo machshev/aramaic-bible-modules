@@ -1,8 +1,6 @@
 .DEFAULT_GOAL := help
 SHELL := bash
-DUTY := $(if $(VIRTUAL_ENV),,pdm run) duty
-export PDM_MULTIRUN_VERSIONS ?= 3.12
-export PDM_MULTIRUN_USE_VENVS ?= $(if $(shell pdm config python.use_venv | grep True),1,0)
+DUTY := $(if $(VIRTUAL_ENV),,poetry run) duty
 
 args = $(foreach a,$($(subst -,_,$1)_args),$(if $(value $a),$a="$($a)"))
 check_quality_args = files
